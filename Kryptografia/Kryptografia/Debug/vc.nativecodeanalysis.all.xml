@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>d:\zajęcia\kryptografia 2\kryptografia\kryptografia</FILEPATH>
+      <FILENAME>szyfrowanie.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Liczba bajtów stosu używana przez funkcję („280260”) przekracza wartość /analyze:stacksize „16384”. Rozważ przeniesienie części danych na stertę.</DESCRIPTION>
+    <FUNCTION>Szyfrowanie::{ctor}</FUNCTION>
+    <DECORATED>??0Szyfrowanie@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

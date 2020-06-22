@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Deszyfracja.cpp
+c:\users\asus\onedrive - politechnika wroclawska\v semestr\kryptografia 2\kryptografia\kryptografia\deszyfracja.cpp(34): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Kryptografia.cpp
+  Szyfrowanie.cpp
+c:\users\asus\onedrive - politechnika wroclawska\v semestr\kryptografia 2\kryptografia\kryptografia\szyfrowanie.cpp(33): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  Kryptografia.vcxproj -> C:\Users\Asus\OneDrive - Politechnika Wroclawska\V semestr\Kryptografia 2\Kryptografia\Debug\Kryptografia.exe
