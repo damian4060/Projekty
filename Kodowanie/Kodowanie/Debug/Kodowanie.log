@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Baza.cpp
+c:\users\asus\onedrive - politechnika wroclawska\iv semestr\kodowanie\kodowanie\kodowanie\baza.cpp(79): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Dekodowanie.cpp
+  Kodowanie.cpp
+  Macierze.cpp
+  Main.cpp
+  Generowanie kodu...
+  Kodowanie.vcxproj -> C:\Users\Asus\OneDrive - Politechnika Wroclawska\IV semestr\Kodowanie\Kodowanie\Debug\Kodowanie.exe
